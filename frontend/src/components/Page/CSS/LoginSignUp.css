@@ -1,0 +1,15 @@
+.sign-up{
+        cursor: pointer;
+}
+.sign-up:hover{
+        color: cornflowerblue;
+}
+
+.content{
+        background: antiquewhite;
+}
+
+.content div img{
+        cursor: pointer;
+}
+
