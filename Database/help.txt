@@ -1,0 +1,10 @@
+---
+
+🗄️ **Base de données**
+
+🛠️ **Configuration :**
+-  Par défaut le nom de la DB dans mongoDB est "stage" 
+-  Vous pouvez décider de créer une DB avec le même nom 
+-  Ou vous pouvez tout simplement modifier le fichier server.js afin de l'adapter à votre DB
+
+---
