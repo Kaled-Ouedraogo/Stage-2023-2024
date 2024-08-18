@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "66527df520cb9fc7d78b1e55"
+  },
+  "code": 1,
+  "name": "Imprimante Epson",
+  "category": "Electronique",
+  "subcategory": "Imprimante",
+  "purchasePrice": 500,
+  "sellPrice": 650,
+  "tva": 1,
+  "description": "Marque EPSON 445x 330 x 135 mm 11,6 kg",
+  "quantity": "15",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716682229198-epson.png"
+  ],
+  "email": "innovtech@gmail.com",
+  "storeName": "InnovTech",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652822c20cb9fc7d78b1f0d"
+  },
+  "code": 1,
+  "name": "Infinix Hot 30",
+  "category": "Informatique",
+  "subcategory": "Téléphone",
+  "purchasePrice": 350,
+  "sellPrice": 459,
+  "tva": 3,
+  "description": "écran de 6,78 pouces 8go 128go",
+  "quantity": "40",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716682793144-infinix-hot-30.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716682793145-infinix2.png"
+  ],
+  "email": "innovtech@gmail.com",
+  "storeName": "InnovTech",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652830820cb9fc7d78b1f4d"
+  },
+  "code": 1,
+  "name": "Chaussure Nazih",
+  "category": "Mode",
+  "subcategory": "Chaussure Homme",
+  "purchasePrice": 90,
+  "sellPrice": 120,
+  "tva": 2,
+  "description": "Elégant, confortable, flexible",
+  "quantity": "100",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716683527991-chaussure.png"
+  ],
+  "email": "asmaDress@gmail.com",
+  "storeName": "DressUp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652846820cb9fc7d78b1f8c"
+  },
+  "code": 1,
+  "name": "Mixeur Blender",
+  "category": "Electroménager",
+  "subcategory": "Mixeur",
+  "purchasePrice": 150,
+  "sellPrice": 300,
+  "tva": 2,
+  "description": "Capacité 1,5 L, Bol en Polycarbonate",
+  "quantity": "200",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716683880955-mixer2.png"
+  ],
+  "email": "kasmo@gmail.com",
+  "storeName": "Kasmo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665284dc20cb9fc7d78b1f90"
+  },
+  "code": 1,
+  "name": "Cafetière",
+  "category": "Electroménager",
+  "subcategory": "Cafetière",
+  "purchasePrice": 50,
+  "sellPrice": 69,
+  "tva": 2,
+  "description": "Marque Tristar 0,6L puissance de 600 W",
+  "quantity": "60",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716683996926-cafe.png"
+  ],
+  "email": "kasmo@gmail.com",
+  "storeName": "Kasmo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652802920cb9fc7d78b1ea8"
+  },
+  "code": 1,
+  "name": "Apple AirPods",
+  "category": "Informatique",
+  "subcategory": "Ecouteur",
+  "purchasePrice": 900,
+  "sellPrice": 1399,
+  "tva": 5,
+  "description": "Recharge rapide, Qualité audio",
+  "quantity": "57",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716683308359-Apple-AirPods-Pro-2nd-generation-USB-C-connection-230912.jpg.news_app_ed.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716683308359-MR8U2_AV3.jpeg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716683308362-airpod.png"
+  ],
+  "email": "innovtech@gmail.com",
+  "storeName": "InnovTech",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652a51e20cb9fc7d78b2238"
+  },
+  "code": 1,
+  "name": "APPLE WATCH SÉRIES 9",
+  "category": "Informatique",
+  "subcategory": "Montre",
+  "purchasePrice": 1200,
+  "sellPrice": 1899,
+  "tva": 1,
+  "description": "Autonomie Batterie: Jusqu'à 18 heures - Mode économie d’énergie: jusqu’à 36 heures - Résistance aux chutes",
+  "quantity": "50",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716692254178-montre-connectee-apple-watch-serie-8-gps-45mm-aluminium-starlight-sport-band.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716692254179-apple-watch-seri-3-outletikinciel-kcm356542-1-da7f964f60d141c7b522d125b5f4c37f.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716692254179-Apple_announces-watch-se_09152020_big.jpg.large.jpg"
+  ],
+  "email": "innovtech@gmail.com",
+  "storeName": "InnovTech",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66534c9920cb9fc7d78b244b"
+  },
+  "code": 1,
+  "name": "Haltère",
+  "category": "Sport",
+  "subcategory": "Poids et accessoires",
+  "purchasePrice": 149,
+  "sellPrice": 210,
+  "tva": 3,
+  "description": "Haltère réglable, Haltères Musculation 25KG, Fitness à Domicile et Musculation",
+  "quantity": "35",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716735129792-haltere2.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716735129793-haltere.jpg"
+  ],
+  "email": "fitness@gmail.com",
+  "storeName": "Fitness Zone",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653609b20cb9fc7d78b2812"
+  },
+  "code": 1,
+  "name": " Gant De Boxe 1919",
+  "category": "Sport",
+  "subcategory": "Boxe",
+  "purchasePrice": 60,
+  "sellPrice": 120,
+  "tva": 5,
+  "description": "Espérance ST - Taraji - Rouge et Jaune",
+  "quantity": "100",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716740251931-boxe2.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716740251931-boxe.jpg"
+  ],
+  "email": "fitness@gmail.com",
+  "storeName": "Fitness Zone",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653621520cb9fc7d78b2816"
+  },
+  "code": 1,
+  "name": "Pao Phantom Athletics",
+  "category": "Sport",
+  "subcategory": "Boxe",
+  "purchasePrice": 350,
+  "sellPrice": 399,
+  "tva": 7,
+  "description": "Amorti des chocs niveau expert, 3 couches de mousse \r\nExtrêmement léger",
+  "quantity": "15",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716740629603-pao.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716740629615-pao2.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716740629619-pao3.jpg"
+  ],
+  "email": "fitness@gmail.com",
+  "storeName": "Fitness Zone",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653634220cb9fc7d78b2831"
+  },
+  "code": 1,
+  "name": "Newfeel Decathlon",
+  "category": "Sport",
+  "subcategory": "Basket",
+  "purchasePrice": 50,
+  "sellPrice": 80,
+  "tva": 3,
+  "description": "Chaussures marche sportive PW 100 gris",
+  "quantity": "65",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716740930820-chaussure_homme.jpg",
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716740930821-chaussure_homme2.jpg"
+  ],
+  "email": "fitness@gmail.com",
+  "storeName": "Fitness Zone",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653653520cb9fc7d78b288c"
+  },
+  "code": 1,
+  "name": "T-shirt Hummel ",
+  "category": "Sport",
+  "subcategory": "Vêtements",
+  "purchasePrice": 70,
+  "sellPrice": 99,
+  "tva": 2,
+  "description": "Conçu avec précision\r\nInserts sous les bras Maxi-flex pour une agilité optimale",
+  "quantity": "35",
+  "images": [
+    "..\\frontend\\src\\components\\Assets\\uploads\\1716741429828-vetement.jpg"
+  ],
+  "email": "fitness@gmail.com",
+  "storeName": "Fitness Zone",
+  "__v": 0
+}]

@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "665250cc53cb72d42271f27c"
+  },
+  "code": 1,
+  "libelle": "Imprimante",
+  "category": "Electronique",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "66527edf20cb9fc7d78b1e88"
+  },
+  "code": 1,
+  "libelle": "Téléphone",
+  "category": "Informatique",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "665280d420cb9fc7d78b1ef4"
+  },
+  "code": 2,
+  "libelle": "Ecouteur",
+  "category": "Informatique",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "665282bb20cb9fc7d78b1f3e"
+  },
+  "code": 1,
+  "libelle": "Chaussure Homme",
+  "category": "Mode",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "665283c520cb9fc7d78b1f6f"
+  },
+  "code": 1,
+  "libelle": "Mixeur",
+  "category": "Electroménager",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "665283e020cb9fc7d78b1f7d"
+  },
+  "code": 2,
+  "libelle": "Cafetière",
+  "category": "Electroménager",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "6652a44320cb9fc7d78b2227"
+  },
+  "code": 3,
+  "libelle": "Montre",
+  "category": "Informatique",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "6653466f20cb9fc7d78b2427"
+  },
+  "code": 1,
+  "libelle": "Poids et accessoires",
+  "category": "Sport",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "66535fe620cb9fc7d78b27fb"
+  },
+  "code": 2,
+  "libelle": "Boxe",
+  "category": "Sport",
+  "email": null,
+  "__v": 0,
+  "productnum": "2"
+},
+{
+  "_id": {
+    "$oid": "665362c320cb9fc7d78b2820"
+  },
+  "code": 3,
+  "libelle": "Basket",
+  "category": "Sport",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "6653648b20cb9fc7d78b287b"
+  },
+  "code": 4,
+  "libelle": "Vêtements",
+  "category": "Sport",
+  "email": null,
+  "__v": 0,
+  "productnum": "1"
+}]

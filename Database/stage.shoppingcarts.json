@@ -1,0 +1,370 @@
+[{
+  "_id": {
+    "$oid": "66547403eef20480a9be609c"
+  },
+  "code": 1,
+  "userEmail": "exemple@gmail.com",
+  "products": [
+    {
+      "productId": "665284dc20cb9fc7d78b1f90",
+      "productName": "Cafetière",
+      "quantity": 1,
+      "price": 69,
+      "storeName": "Kasmo",
+      "_id": {
+        "$oid": "66547403eef20480a9be609d"
+      }
+    },
+    {
+      "productId": "6653634220cb9fc7d78b2831",
+      "productName": "Newfeel Decathlon",
+      "quantity": 1,
+      "price": 80,
+      "storeName": "Fitness Zone",
+      "_id": {
+        "$oid": "66547408eef20480a9be60a5"
+      }
+    }
+  ],
+  "totalPriceTTC": 152.78,
+  "totalPriceTHT": 149,
+  "totalPriceTVA": 3.78,
+  "totalQuantity": 2,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-27T11:52:35.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T17:09:52.177Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66553521a4a0c25c15830220"
+  },
+  "code": 2,
+  "userEmail": "exemple@gmail.com",
+  "products": [
+    {
+      "productId": "6652822c20cb9fc7d78b1f0d",
+      "productName": "Infinix Hot 30",
+      "quantity": 1,
+      "price": 459,
+      "storeName": "InnovTech",
+      "_id": {
+        "$oid": "66553521a4a0c25c15830221"
+      }
+    },
+    {
+      "productId": "6652802920cb9fc7d78b1ea8",
+      "productName": "Apple AirPods",
+      "quantity": 1,
+      "price": 1399,
+      "storeName": "InnovTech",
+      "_id": {
+        "$oid": "6655359ea4a0c25c1583027e"
+      }
+    }
+  ],
+  "totalPriceTTC": 1941.72,
+  "totalPriceTHT": 1858,
+  "totalPriceTVA": 83.72,
+  "totalQuantity": 2,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-28T01:36:33.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T01:40:43.826Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6657bac68be6750170e6cbb5"
+  },
+  "code": 1,
+  "userEmail": "youssef@gmail.com",
+  "products": [
+    {
+      "productId": "6653653520cb9fc7d78b288c",
+      "productName": "T-shirt Hummel ",
+      "quantity": 1,
+      "price": 99,
+      "storeName": "Fitness Zone",
+      "_id": {
+        "$oid": "6657bac68be6750170e6cbb6"
+      }
+    }
+  ],
+  "totalPriceTTC": 100.98,
+  "totalPriceTHT": 99,
+  "totalPriceTVA": 1.98,
+  "totalQuantity": 1,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-29T23:31:18.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T23:34:03.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6657bdc68be6750170e6cc58"
+  },
+  "code": 1,
+  "userEmail": "david@gmail.com",
+  "products": [
+    {
+      "productId": "6653609b20cb9fc7d78b2812",
+      "productName": " Gant De Boxe 1919",
+      "quantity": 1,
+      "price": 120,
+      "storeName": "Fitness Zone",
+      "_id": {
+        "$oid": "6657bdc68be6750170e6cc59"
+      }
+    },
+    {
+      "productId": "665284dc20cb9fc7d78b1f90",
+      "productName": "Cafetière",
+      "quantity": 1,
+      "price": 69,
+      "storeName": "Kasmo",
+      "_id": {
+        "$oid": "6657bdd28be6750170e6cc6b"
+      }
+    }
+  ],
+  "totalPriceTTC": 196.38,
+  "totalPriceTHT": 189,
+  "totalPriceTVA": 7.38,
+  "totalQuantity": 2,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-29T23:44:06.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T23:45:10.314Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6657bf498be6750170e6ccfb"
+  },
+  "code": 1,
+  "userEmail": "yann@gmail.com",
+  "products": [
+    {
+      "productId": "6652846820cb9fc7d78b1f8c",
+      "productName": "Mixeur Blender",
+      "quantity": 1,
+      "price": 300,
+      "storeName": "Kasmo",
+      "_id": {
+        "$oid": "6657bf498be6750170e6ccfc"
+      }
+    },
+    {
+      "productId": "6653653520cb9fc7d78b288c",
+      "productName": "T-shirt Hummel ",
+      "quantity": 2,
+      "price": 198,
+      "storeName": "Fitness Zone",
+      "_id": {
+        "$oid": "6657bf518be6750170e6cd12"
+      }
+    }
+  ],
+  "totalPriceTTC": 507.96,
+  "totalPriceTHT": 498,
+  "totalPriceTVA": 9.96,
+  "totalQuantity": 2,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-29T23:50:33.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T23:52:08.140Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6657c2923086bf0de8d07f0c"
+  },
+  "code": 1,
+  "userEmail": "sulsin@gmail.com",
+  "products": [
+    {
+      "productId": "6652822c20cb9fc7d78b1f0d",
+      "productName": "Infinix Hot 30",
+      "quantity": 2,
+      "price": 918,
+      "storeName": "InnovTech",
+      "_id": {
+        "$oid": "6657c2c93086bf0de8d0809a"
+      }
+    }
+  ],
+  "totalPriceTTC": 945.54,
+  "totalPriceTHT": 918,
+  "totalPriceTVA": 27.539999999999996,
+  "totalQuantity": 1,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-30T00:04:34.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-30T00:07:40.526Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "6658b3fd3086bf0de8d082af"
+  },
+  "code": 2,
+  "userEmail": "youssef@gmail.com",
+  "products": [
+    {
+      "productId": "6653634220cb9fc7d78b2831",
+      "productName": "Newfeel Decathlon",
+      "quantity": 1,
+      "price": 80,
+      "storeName": "Fitness Zone",
+      "_id": {
+        "$oid": "6658b3fd3086bf0de8d082b0"
+      }
+    }
+  ],
+  "totalPriceTTC": 82.4,
+  "totalPriceTHT": 80,
+  "totalPriceTVA": 2.4,
+  "totalQuantity": 1,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-30T17:14:37.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-30T17:16:20.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665911503fdad82dbbd3cf46"
+  },
+  "code": 1,
+  "userEmail": "new@gmail.com",
+  "products": [
+    {
+      "productId": "6652822c20cb9fc7d78b1f0d",
+      "productName": "Infinix Hot 30",
+      "quantity": 2,
+      "price": 918,
+      "storeName": "InnovTech",
+      "_id": {
+        "$oid": "665911503fdad82dbbd3cf47"
+      }
+    },
+    {
+      "productId": "66527df520cb9fc7d78b1e55",
+      "productName": "Imprimante Epson",
+      "quantity": 1,
+      "price": 650,
+      "storeName": "InnovTech",
+      "_id": {
+        "$oid": "665911843fdad82dbbd3cfbb"
+      }
+    }
+  ],
+  "totalPriceTTC": 1602.04,
+  "totalPriceTHT": 1568,
+  "totalPriceTVA": 34.04,
+  "totalQuantity": 2,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-30T23:52:48.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-30T23:55:08.463Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "665911f23fdad82dbbd3d0ed"
+  },
+  "code": 2,
+  "userEmail": "new@gmail.com",
+  "products": [
+    {
+      "productId": "6653634220cb9fc7d78b2831",
+      "productName": "Newfeel Decathlon",
+      "quantity": 1,
+      "price": 80,
+      "storeName": "Fitness Zone",
+      "_id": {
+        "$oid": "665913dd3fdad82dbbd3d4a7"
+      }
+    },
+    {
+      "productId": "665284dc20cb9fc7d78b1f90",
+      "productName": "Cafetière",
+      "quantity": 1,
+      "price": 69,
+      "storeName": "Kasmo",
+      "_id": {
+        "$oid": "665913de3fdad82dbbd3d4ba"
+      }
+    }
+  ],
+  "totalPriceTTC": 152.78,
+  "totalPriceTHT": 149,
+  "totalPriceTVA": 3.78,
+  "totalQuantity": 2,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-05-30T23:55:30.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-31T00:30:42.439Z"
+  },
+  "__v": 13
+},
+{
+  "_id": {
+    "$oid": "6674bc8075028901e04a41a1"
+  },
+  "code": 1,
+  "userEmail": "kaled@gmail.com",
+  "products": [
+    {
+      "productId": "6653653520cb9fc7d78b288c",
+      "productName": "T-shirt Hummel ",
+      "quantity": 2,
+      "price": 198,
+      "storeName": "Fitness Zone",
+      "_id": {
+        "$oid": "6674bc8075028901e04a41a2"
+      }
+    }
+  ],
+  "totalPriceTTC": 201.96,
+  "totalPriceTHT": 198,
+  "totalPriceTVA": 3.96,
+  "totalQuantity": 1,
+  "status": "validate",
+  "createdAt": {
+    "$date": "2024-06-20T23:34:24.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T23:35:28.223Z"
+  },
+  "__v": 0
+}]

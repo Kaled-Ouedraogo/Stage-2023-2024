@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6652507953cb72d42271f270"
+  },
+  "code": 1,
+  "libelle": "Electronique",
+  "email": null,
+  "__v": 0,
+  "subnum": "1",
+  "productnum": "1"
+},
+{
+  "_id": {
+    "$oid": "66527ed520cb9fc7d78b1e81"
+  },
+  "code": 2,
+  "libelle": "Informatique",
+  "email": null,
+  "__v": 0,
+  "subnum": "2",
+  "productnum": "3"
+},
+{
+  "_id": {
+    "$oid": "665282b020cb9fc7d78b1f37"
+  },
+  "code": 3,
+  "libelle": "Mode",
+  "email": null,
+  "__v": 0,
+  "productnum": "1",
+  "subnum": "1"
+},
+{
+  "_id": {
+    "$oid": "6652838320cb9fc7d78b1f68"
+  },
+  "code": 4,
+  "libelle": "Electroménager",
+  "email": null,
+  "__v": 0,
+  "subnum": "2",
+  "productnum": "2"
+},
+{
+  "_id": {
+    "$oid": "665342b420cb9fc7d78b241a"
+  },
+  "code": 5,
+  "libelle": "Sport",
+  "email": null,
+  "__v": 0,
+  "productnum": "5",
+  "subnum": "4"
+}]

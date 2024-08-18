@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "664f849a84964dcf773eb0e7"
+  },
+  "code": 1,
+  "libelle": "InnovTech",
+  "address": "Tunis 23 rue gare de Barcelone",
+  "tel": "53236687",
+  "email": "innovtech@gmail.com",
+  "status": 1,
+  "role": 1,
+  "createdAt": {
+    "$date": "2024-05-23T18:02:02.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T11:58:22.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fbc71ae8db5370ebd64a3"
+  },
+  "code": 3,
+  "libelle": "DressUp",
+  "address": "Tunis El Manar 2 ",
+  "tel": "54327754",
+  "email": "asmaDress@gmail.com",
+  "status": 1,
+  "role": 1,
+  "createdAt": {
+    "$date": "2024-05-23T22:00:17.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T22:02:59.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fbd99ae8db5370ebd64b6"
+  },
+  "code": 2,
+  "libelle": "Kasmo",
+  "address": "Sousse Rue du levant",
+  "tel": "55278800",
+  "email": "kasmo@gmail.com",
+  "status": 1,
+  "role": 1,
+  "createdAt": {
+    "$date": "2024-05-23T22:05:13.756Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T22:05:17.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fce78ae8db5370ebd64cc"
+  },
+  "code": 4,
+  "libelle": "Chic Boutique",
+  "address": "Tunis Rue El Cham Fayette ",
+  "tel": "59775422",
+  "email": "chicBoutique@gmail.com",
+  "status": 1,
+  "role": 1,
+  "createdAt": {
+    "$date": "2024-05-23T23:17:12.269Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T16:15:34.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66534a7920cb9fc7d78b2436"
+  },
+  "code": 5,
+  "libelle": "Fitness Zone",
+  "address": "Tunis La Marsa Av. de la Liberté",
+  "tel": "50643386",
+  "email": "fitness@gmail.com",
+  "status": 1,
+  "role": 1,
+  "createdAt": {
+    "$date": "2024-05-26T14:43:05.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T14:43:15.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675a7526d90c275200088fa"
+  },
+  "code": 6,
+  "libelle": "Sulsin",
+  "address": "Rue de Belgique",
+  "tel": "52776299",
+  "email": "sulsin22@gmail.com",
+  "status": 0,
+  "role": 1,
+  "createdAt": {
+    "$date": "2024-06-21T16:16:18.736Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T16:16:18.736Z"
+  },
+  "__v": 0
+}]
