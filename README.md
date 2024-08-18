@@ -13,7 +13,6 @@ Ce dépôt est consacré à mon stage de fin d'études pour l'année 2023-2024, 
 - 🤝 Collaboration avec l'équipe pour mener à bien les objectifs fixés.
 - 🛠️ Développement d'un projet innovant et impactant.
 
-Découvrez les résultats de ce stage et les compétences que j'ai pu développer au cours de cette période ! 💼🔍
 
 ---
 
